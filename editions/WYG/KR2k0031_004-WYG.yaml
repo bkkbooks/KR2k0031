@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0031/WYG/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 朝邑縣志跋道始至蒲臨河而西望朝邑即壯其山河之美比入境左唐關右隋宫盡覧其古跡之勝比入郭閭里輝聨後先掩映則又嘆其人物之秀且盛而果非他邑比也顧其邑志繁蕪汙穢不足以彰往而詔來道乃請諸五泉韓先生作此新志焉其視舊志雖省三之二然而爬羅剔抉昭昭乎可激勸于人者不啻加千百也既而又得對山康先生涇野吕先生序諸前後則斯志也滋可𫝊諸木以為斯邑實籍矣若夫企先賢而思齊覩名宦而思政慨風俗而思易移觀利病而思興革則又後之有志者事也于道何有哉時正徳己卯九日吉旦知朝邑縣事山西陵川王道跋
+  hash: sha256:75bdc2ad5870ab611c98e05a56055ebc8eb8c83cca9f881a9be85821a3d0955d
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0031_WYG_004-1a, image: WYG0494/WYG0494-0060a.png}
+metadata:
+  title: 朝邑縣志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:40:03.204551'
+  juan_title: 跋
+  source:
+    repository: kanripo
+    path: KR2k0031/KR2k0031_004.txt
+hash: sha256:8c412398c97ee15759f52a5d91f18d2ae3fbc53cf7ca40717d939180b6ba132c

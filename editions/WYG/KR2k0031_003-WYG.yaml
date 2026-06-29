@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2k0031/WYG/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 朝邑縣志後序右朝邑志七篇工部員外五泉韓汝慶之所編也紀録質實而文彩煥炳可誦其𫝊人物説髙翔程濟及烈女劉氏事婉乎若覩其人真足以㢘頑而立懦不可謂無筆力也而襍記一篇又多政事利害所關以示後之為朝邑者何惑焉其餘五篇事雖不異他志而紀例亦自殊稱為簡確之編信矣然則陵川王君純甫知是邑而刻此編人雖曰不良於政則吾不信也正徳己夘秋七月卄二日賜進士及第翰林院修撰儒林郎同修國史經筵講官高陵吕柟書
+  hash: sha256:27e295e58451031eae00a2dcd06599bcddcb6974a97a952231bba1f4ee23fc95
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2k0031_WYG_003-1a, image: WYG0494/WYG0494-0059c.png}
+metadata:
+  title: 朝邑縣志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:40:03.204551'
+  juan_title: 後序
+  source:
+    repository: kanripo
+    path: KR2k0031/KR2k0031_003.txt
+hash: sha256:80e1c9b35482736b85da34ec5beb7ed52a4de5d9cb561cd9036ccb79e40c22dc
